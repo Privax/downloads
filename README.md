@@ -19,7 +19,7 @@
 [HMA! Pro VPN 2.8.19.0 for Windows XP (Service Pack 3 only)] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-2.8.19.0-install.exe)
 
 ##HMA! Pro VPN for Android:
-[HMA! Pro VPN for Android 4.0+] (https://github.com/Privax/downloads/blob/master/com.hidemyass.hidemyassprovpn.apk)
+[HMA! Pro VPN for Android 4.0+] (https://github.com/Privax/downloads/blob/master/Hma-releaseLive-v2.1.3.112.1_63-signed.apk)
 
 ##HMA! Pro VPN for Linux(zipped):
 [HMA! Pro VPN for Linux (General)] (https://github.com/Privax/downloads/blob/master/hma-vpn-linux-cli.zip)
