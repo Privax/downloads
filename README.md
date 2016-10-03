@@ -10,7 +10,7 @@
 
 ##HMA! Pro VPN for Windows:
 
-[HMA! Pro VPN 3.2.13.0 for Windows Vista, 7, 8.1, 10] https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.2.13.0-install.exe)
+[HMA! Pro VPN 3.2.13.0 for Windows Vista, 7, 8.1, 10] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.2.13.0-install.exe)
 
 [HMA! Pro VPN 2.8.24.0 for Windows Vista, 7, 8.1, 10] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-2.8.24.0-installer.exe)
 
