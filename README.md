@@ -1,6 +1,6 @@
 ##HMA! Pro VPN for Mac/OSX:
 
-[HMA! Pro VPN 3.2.8.2 for OS X 10.9, 10.10, 10.11] (https://github.com/Privax/downloads/blob/master/HMA!%20Pro%20VPN%20(3.0.38.2).dmg)
+[HMA! Pro VPN 3.2.8.2 for OS X 10.9, 10.10, 10.11] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-macOS-3.2.8.2.dmg)
 
 [HMA! Pro VPN 2.2.7.0 for OSX  OS X 10.7, 10.8, 10.9, 10.10, 10.11] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-2.2.7.0.pkg)
 
