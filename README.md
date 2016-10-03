@@ -18,4 +18,5 @@
 [HMA! Pro VPN for Android 4.0+] (https://github.com/Privax/downloads/blob/master/Hma-releaseLive_SIGNED-v2.1.5.apk)
 
 ##HMA! Pro VPN for Linux(zipped):
-[HMA! Pro VPN for Linux (General)] (https://github.com/Privax/downloads/blob/master/hma-vpn-linux-cli.zip)
+[HMA! Pro hma-vpn-linux-cli Linux (General)] (https://github.com/Privax/downloads/blob/master/hma-vpn-linux-cli.zip)
+[HMA! Pro VPN hma-vpn.sh for Linux (General)] (https://github.com/Privax/downloads/blob/master/hma-vpn.sh)
