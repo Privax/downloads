@@ -27,4 +27,4 @@
 [HMA! Pro VPN hma-vpn.sh for Linux (all Linux distro except Ubuntu 16.04)] (https://github.com/Privax/downloads/blob/master/hma-vpn.sh)
 
 ##HMA! Pro VPN IPSec configuration files:
-[HMA! Pro hma-vpn-linux-cli Linux (General)] (https://github.com/Privax/downloads/raw/master/IPsec-config-files.zip)
+[Windows config flies for ShrewSoft VPN client] (https://github.com/Privax/downloads/raw/master/IPsec-config-files.zip)
