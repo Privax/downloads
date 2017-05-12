@@ -10,15 +10,15 @@
 
 ##HMA! Pro VPN for Windows:
 
-[HMA! Pro VPN 3.4.6.1 for Windows Vista, 7 SP1, 8.1, 10]  (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.4.6.1-install.exe)
+[HMA! Pro VPN 3.4.6.1 for Windows Vista, 7 SP1, 8.1, 10](https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.4.6.1-install.exe)
 
-[HMA! Pro VPN 3.3.0.2 for Windows Vista, 7 SP1, 8.1, 10]  (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.3.0.2-install.exe)
+[HMA! Pro VPN 3.3.0.2 for Windows Vista, 7 SP1, 8.1, 10](https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.3.0.2-install.exe)
 
-[HMA! Pro VPN 3.2.13.0 for Windows Vista, 7 SP1, 8.1, 10] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.2.13.0-install.exe)
+[HMA! Pro VPN 3.2.13.0 for Windows Vista, 7 SP1, 8.1, 10](https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-3.2.13.0-install.exe)
 
-[HMA! Pro VPN 2.8.24.0 for Windows Vista, 7, 8.1, 10] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-2.8.24.0-installer.exe)
+[HMA! Pro VPN 2.8.24.0 for Windows Vista, 7, 8.1, 10](https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-2.8.24.0-installer.exe)
 
-[HMA! Pro VPN 2.8.19.0 for Windows XP (Service Pack 3 only)] (https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-2.8.19.0-install.exe)
+[HMA! Pro VPN 2.8.19.0 for Windows XP (Service Pack 3 only)](https://github.com/Privax/downloads/blob/master/HMA-Pro-VPN-2.8.19.0-install.exe)
 
 ##HMA! Pro VPN for Android:
 [HMA! Pro VPN for Android 4.0+] (https://github.com/Privax/downloads/raw/master/hma-vpn-wifi-security%202.2.2.120.1.apk)
