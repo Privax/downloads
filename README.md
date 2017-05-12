@@ -26,7 +26,7 @@
 
 ##HMA! Pro VPN for Linux(zipped):
 
-[HMA! Pro hma-vpn-linux-cli Linux (General)](https://github.com/Privax/downloads/blob/master/hma-vpn-linux-cli.zip)
+[HMA! Pro hma-openvpn.sh](https://github.com/Privax/downloads/blob/master/hma-openvpn.sh)
 
 [HMA! Pro VPN hma-vpn.sh for Linux (all Linux distro except Ubuntu 16.04)](https://github.com/Privax/downloads/blob/master/hma-vpn.sh)
 
