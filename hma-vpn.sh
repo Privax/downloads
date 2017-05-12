@@ -588,7 +588,15 @@ echo "Detected distro: $os"
 echo
 
 # If Debian or Ubuntu, run OpenVPN as service
-if [[ "$os" == *"Debian"* ]] || [[ "$os" == *"Ubuntu"* ]]; then
+if [[ "$os" == *"Ubuntu 16.04"* ]]; then
+	echo "Calling OpenVPN as process..."
+	startas="process"
+	$openvpn --daemon --config /etc/openvpn/${HMA_VPN_NAME}.conf
+elif [[ "$os" == *"Ubuntu 16.10"* ]]; then
+	echo "Calling OpenVPN as process..."
+	startas="process"
+	$openvpn --daemon --config /etc/openvpn/${HMA_VPN_NAME}.conf
+elif [[ "$os" == *"Debian"* ]] || [[ "$os" == *"Ubuntu"* ]]; then
 	echo "Calling OpenVPN as service..."
 	startas="service"
 	${SERVICE_INTERFACE} ${OPENVPN_SERVICE} start ${HMA_VPN_NAME} > /dev/null
