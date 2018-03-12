@@ -26,7 +26,7 @@
 
 ##HMA! Pro VPN for Android:
 
-[HMA! Pro VPN for Android 4.0+](https://github.com/Privax/downloads/raw/master/hma-vpn-proxy-wifi-security%202.3.1.120.2.apk)
+[HMA! Pro VPN for Android 4.0+](https://github.com/Privax/downloads/raw/master/hma-vpn-proxy-wifi-security%204.0.0.1.apk)
 
 ##HMA! Pro VPN for Linux(zipped):
 
